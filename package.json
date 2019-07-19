@@ -1,6 +1,6 @@
 {
   "name": "booking-slot-generator",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Generate booking slots from start and end times",
   "main": "index.js",
   "directories": {
@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "harshpatel1408@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry-1408/booking-slot-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harry-1408/booking-slot-generator/issues"
+  },
+  "homepage": "https://github.com/Harry-1408/booking-slot-generator#readme"
 }
