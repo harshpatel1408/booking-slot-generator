@@ -1,0 +1,15 @@
+{
+  "name": "booking-slot-generator",
+  "version": "1.0.0",
+  "description": "Generate booking slots from start and end times",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "harshpatel1408@gmail.com",
+  "license": "ISC"
+}
